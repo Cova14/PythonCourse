@@ -17,3 +17,6 @@ elif calificacion >= 5 and calificacion < 7:
 #   print('Chance y pasas')
 else:
   print('Ya ni vengas')
+
+
+# TESTEANDO

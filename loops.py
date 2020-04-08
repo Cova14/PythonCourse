@@ -85,3 +85,5 @@ while payments < 10:
   acum += pay
   payments += 1
 print(f'Total de lo que le has pagado a la Iglesia: {acum:.2f}')
+
+# Realizar el mismo programa pero con for en lugar de while
